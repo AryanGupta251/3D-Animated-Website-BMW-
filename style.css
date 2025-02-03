@@ -420,7 +420,8 @@
       width: 100%;
       color: #fff;
       text-decoration: none;
-      
+      /* border-top: .5px solid #ffffff5c; */
+      /* border-bottom: .5px solid #ffffff48; */
   }
   .page14-inner>i{
       font-weight: 100;
