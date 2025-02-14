@@ -271,7 +271,6 @@
       position: absolute;
       top: 50%;
       transform: translateY(-50%);
-      background-image: url(whatisbmw?.jpg);
       background-size: cover;
       left: 5%;
   }
